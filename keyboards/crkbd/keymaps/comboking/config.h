@@ -20,6 +20,9 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 #pragma once
 
+#define PERMISSIVE_HOLD
+#define BOTH_SHIFTS_TURNS_ON_CAPS_WORD
+
 //#define USE_MATRIX_I2C
 
 //#define QUICK_TAP_TERM 0
